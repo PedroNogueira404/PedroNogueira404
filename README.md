@@ -16,7 +16,7 @@ Hi! I'm Pedro, an astrophysicist, python developer, and science communicator.
 ## 🔗 Quick Links
 
 - 🌐 **Website:** [pedronogueira404.github.io](https://pedronogueira404.github.io)
-- 🧪 **ORCID:** [0000-0001-8450-3606][https://orcid.org/0000-0001-8450-3606]
+- 🧪 **ORCID:** [https://orcid.org/0000-0001-8450-3606]
 - 📄 **Papers:** [ADS Library](https://ui.adsabs.harvard.edu/user/libraries/10ld7B1GTAy2i7T3k2ko1Q)  
 - 📂 **CV (Academic):** [CV.pdf](https://pedronogueira404.github.io/assets/CV.pdf) 
 - 📂 **CV (Industry):**[CV_][]
