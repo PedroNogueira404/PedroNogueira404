@@ -17,8 +17,8 @@ Hi! I'm Pedro, an astrophysicist, python developer, and science communicator.
 
 - 🌐 **Website:** [pedronogueira404.github.io](https://pedronogueira404.github.io)
 - 🧪 **ORCID:** [https://orcid.org/0000-0001-8450-3606]
-- 📂 **CV (Academic):** [CV.pdf](https://pedronogueira404.github.io/assets/CV.pdf) 
-- 📂 **CV (Industry):**[CV_][]
+- 📂 **CV (Academic):** [academic_cv](https://pedronogueira404.github.io/assets/CV.pdf) 
+- 📂 **CV (Industry):**[industry_cv](Pedro_shorterCV)
 - 🗃 **Highlighted Repositories:**
   - [Bhowmik 2025 Plotter](https://github.com/PedroNogueira404/bhowmik2025plots) – image generation, LaTeX automation
 ---
