@@ -16,9 +16,10 @@ Hi! I'm Pedro, an astrophysicist, python developer, and science communicator.
 ## 🔗 Quick Links
 
 - 🌐 **Website:** [pedronogueira404.github.io](https://pedronogueira404.github.io)
-- 🧪 **ORCID:** [https://orcid.org/0000-0001-8450-3606]
-- 📂 **CV (Academic):** [academic_cv](https://pedronogueira404.github.io/assets/CV.pdf) 
-- 📂 **CV (Industry):**[industry_cv](Pedro_shorterCV)
+- 🧪 **ORCID:** [orcid.org/0000-0001-8450-3606](https://orcid.org/0000-0001-8450-3606)
+- **LinkedIn** [nogueirapedro404](www.linkedin.com/in/nogueirapedro404)
+- 📂 **CV (Academic):** [Academic Cv](./Pedro_shorterCV-4.pdf) 
+- 📂 **CV (Industry):** [Industry Cv](./CV_industry_english-2.pdf)
 - 🗃 **Highlighted Repositories:**
   - [Bhowmik 2025 Plotter](https://github.com/PedroNogueira404/bhowmik2025plots) – image generation, LaTeX automation
 ---
@@ -27,12 +28,12 @@ Hi! I'm Pedro, an astrophysicist, python developer, and science communicator.
 
 - Protoplanetary disks and substructures
 - Exoplanets detection techniques
-        - High-contrast imaging
-        - Transits
-        - Radial Velocity
+  - High-contrast imaging
+  - Transits
+  - Radial Velocity
 - Exoplanetary demographics
 - Planet-disk interactions & synthetic observations
-- - Data pipelines and automation tools for astronomy
+- Data pipelines and automation tools
 
 ---
 
